@@ -1,0 +1,4 @@
+EXAMPLE
+=======
+./hajime-milk.py -d q -f all -k -w 10:/home/ubuntu/logshards/cunny_lookup/:120
+./hajime-milk.py -d q -f all -k -w 10:/home/ubuntu/logshards/hajime_large_lookup/:120
